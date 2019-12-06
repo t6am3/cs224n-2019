@@ -1,0 +1,13 @@
+**\results
+**\__pycache__
+
+*.ipynb
+# *.txt
+*.npy
+*.pickle
+
+**\results
+**\data
+**\model.bin
+**\model.bin.optim
+**\.ipynb_checkpoints
